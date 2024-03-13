@@ -39,3 +39,4 @@ FLASK_APP=app.py
 ```
 - Run the application: ``docker compose up --build``
 - Open he browser: ``http://localhost:8000``
+- Stop the docker: ```docker compose down```
