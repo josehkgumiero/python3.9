@@ -80,4 +80,50 @@ def test_exception_in_group():
 ```
 pytest -q test_sample_raise_exceptiongroup.py
 ```
+```
+touch test_class.py
+```
+```
+# content of test_class.py
+class TestClass:
+    def test_one(self):
+        x = "this"
+        assert "h" in x
+    
+    def test_two(self):
+        x = "hello"
+        assert hasattr(x, "check")
+```
+```
+pytest -q test_class.py
+```
+```
+touch test_class_demo.py
+```
+```
+# content of test_class_demo.py
+class TestClassDemoInstance:
+    value = 0
 
+    def test_one(self):
+        self.value = 1
+        assert self.value == 1
+
+    def test_two(self):
+        assert self.value == 1
+```
+```
+pytest -k TestClassDemoInstance -q
+```
+```
+touch test_tmp_path.py
+```
+```
+# content of test_tmp_path.py
+def test_needsfiles(tmp_path):
+    print(tmp_path)
+    assert 0
+```
+```
+pytest -q test_tmp_path.py
+```
