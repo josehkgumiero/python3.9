@@ -35,4 +35,4 @@ pip install -r requirements.txt
 
 # Pytho Frameworks
 
-- aiohttp, asyncio, bottle, cherrypy, django, fastapi, flask, keras, kivy, matplotlib, nose2, numpy, pandas, pyqt, pyramid, pyside, pysimplegui, pytest, pytorch, scikit_learn, scipy, tensorflow, tkinter, tornado, uittest;
+- aiohttp, asyncio, bottle, cherrypy, cubicweb, dash, django, falcon, fastapi, flask, giotto, keras, kivy, matplotlib, nose2, numpy, pandas, pyqt, pyramid, pyside, pysimplegui, pytest, pytorch, scikit_learn, scipy, tensorflow, tkinter, tornado, uittest, web2py;
