@@ -116,3 +116,18 @@ pip install -r requirements.txt
 # Pytho Frameworks
 
 - aiohttp, asyncio, bottle, cherrypy, cubicweb, dash, django, falcon, fastapi, flask, giotto, keras, kivy, matplotlib, nose2, numpy, pandas, pyqt, pyramid, pyside, pysimplegui, pytest, pytorch, scikit_learn, scipy, tensorflow, tkinter, tornado, uittest, web2py;
+
+# Topics of python projects
+
+- Python Library Documentation
+- Operating System Application
+- Individual Application
+- Machine Learning Application
+- Data Structure
+- Algorithms
+- Patterns Problems
+- Databricks Certified Associate Developer
+- Data Engineer on Azure
+- Data Science for COVID-19
+- Data Engineering
+- Apache Spark
