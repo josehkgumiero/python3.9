@@ -1,68 +1,10 @@
 # Python 3.X
 
-# Install Python
+## Start Python 3 Project
 
-# Download the .tgz package
-
-# Open the .tgz package
-```
-tar -xvf Python-3.12.2.tar.xz
-```
-
-```
-sudo apt-get install build-essential
-```
-
-```
-sudo apt-get install zlib1g-dev
-```
-
-```
-sudo apt-get install zlibg
-```
-
-```
-sudo apt-get install pkg-config
-```
-
-```
-sudo apt-get update
-```
-
-```
-sudo apt-get upgrade
-```
-
-```
-nano README.rst
-```
-
-```
-sudo ./configure --enable-optimizations
-```
-```
-sudo make
-```
-```
-sudo make test
-```
-```
-sudo make install
-```
-
-```
-cd /
-whereis python3.12
-```
-
-```
-alias python=/usr/local/bin/python3.12
-```
-
-```
-python -v
-```
-
+- For all projects started, python 3.12 is used;
+- First, it need to create a folder for the project;
+- For each project, there is a folder separating and identifying the project as a whole;
 
 ## Python Job Board
 - Software Engineer

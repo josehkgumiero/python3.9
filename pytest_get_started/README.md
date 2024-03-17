@@ -1,8 +1,8 @@
-# Application Pytest Get Started
+# Pytest Get Started
 # Create Virtual Environment
 ```
-mkdir application_pytest_get_started
-cd application_pytest_get_started
+mkdir pytest_get_started
+cd pytest_get_started
 python3 -m venv .venv
 ```
 # Start Virtual Environment
