@@ -14,23 +14,7 @@ _df = pd.DataFrame.from_records(_data)
 
 _df = _df.rename(columns={0: 'Root', 1: 'Directory', 2: 'File'})
 
-print("\n")
-
-print(_df.info())
-
-print("\n")
-
-print(_df)
-
 _file_serie = _df['File']
-
-print("\n")
-
-print(_file_serie)
-
-print("\n")
-
-print(type(_file_serie))
 
 _check_list_dataset = ["1800.csv", "fakefriends.csv", "u.data"]
 
@@ -43,23 +27,9 @@ def _str_contains(_list_object):
 
 _file_serie = _file_serie.apply(_str_contains)
 
-print("\n")
-
-print(_file_serie)
-
 _values = _file_serie.values
 
-print("\n")
-
-print(_values)
-
 unique, counts = np.unique(_values, return_counts=True)
-
-print("\n")
-
-print(unique, counts)
-
-print("\n")
 
 _list_dataset = []
 

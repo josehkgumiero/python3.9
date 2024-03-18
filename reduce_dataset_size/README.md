@@ -42,6 +42,11 @@ py -m pip install pandas
 py -m pip show pandas
 ```
 
+# Run the script
+
+```
+python reduce_dataset_size.py
+```
 
 
 
