@@ -7,6 +7,11 @@ cd docker_postgres_pgadmin
 
 - 
 ```
+echo *data/ >> .gitignore
+```
+
+- 
+```
 docker-compose up
 ```
 
@@ -31,7 +36,19 @@ docker inspect container_id
     - Choose the dataase;
     - Informs the user and password;
 
-# Create
+# Creates Database
+
+# Connects to new Database
+
+# Creates User
+
+# Grants Privileges
+
+# Connects to new Database with new User
+
+# Creates the tables
+
+# Loads the file
 
 # References
 
