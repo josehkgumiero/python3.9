@@ -1,0 +1,1 @@
+CREATE ROLE superuser_itversity_retail_user WITH LOGIN SUPERUSER PASSWORD 'superuser_itversity_retail_user';

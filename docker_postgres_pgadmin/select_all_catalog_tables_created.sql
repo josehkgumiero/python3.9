@@ -1,0 +1,1 @@
+SELECT * FROM pg_catalog.pg_tables WHERE tablename !~ '^pg_' AND tablename !~ '^sql_';

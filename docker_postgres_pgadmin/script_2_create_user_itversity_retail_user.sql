@@ -1,0 +1,1 @@
+CREATE USER itversity_retail_user WITH ENCRYPTED PASSWORD 'itversity';

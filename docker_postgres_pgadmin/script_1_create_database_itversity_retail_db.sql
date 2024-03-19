@@ -1,0 +1,1 @@
+CREATE DATABASE itversity_retail_db;

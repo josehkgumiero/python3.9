@@ -131,3 +131,24 @@ pip install -r requirements.txt
 - Data Science for COVID-19
 - Data Engineering
 - Apache Spark
+
+# Databases
+
+- Oracle
+- MySQL
+- Postgres
+- MS SQL Server
+- Sybase
+- MongoDB
+- DocumentDB
+- Cassandra
+- Search
+- ElasticSearch
+- SoIR
+- Graph
+- Neo4j
+- Azure Synapse
+- AWS Redshift
+- GPC BigQuery
+- Teradata
+- Snowflake
