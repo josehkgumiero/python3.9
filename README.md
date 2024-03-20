@@ -20,7 +20,7 @@
 - Data Scientist
 - Data Analyst
 
-## Python Job Description
+## Softskill
 
 - Meet with the broader team;
 - Understand the roles and responsibilities;
@@ -52,7 +52,7 @@
 - Git: Github, Bitbucket, Azure Repos, AWS CodeCommit;
 - Git: - CI/CD, Code review, Merging branchs, Release process, Fix bugs;
 - Python PEP;
-- Python Frameworks: aiohttp, asyncio, bottle, cherrypy, cubicweb, dash, django, falcon, fastapi, flask, giotto, keras, kivy, matplotlib, nose2, numpy, pandas, pyqt, pyramid, pyside, pysimplegui, pytest, pytorch, scikit_learn, scipy, tensorflow, tkinter, tornado, uittest, web2py;
+- Python Frameworks: aiohttp, asyncio, bottle, cherrypy, cubicweb, dash, django, falcon, fastapi, flask, giotto, keras, kivy, matplotlib, nose2, numpy, pandas, plotly, pyqt, pyramid, pyside, pysimplegui, pytest, pytorch, scikit_learn, scipy, tensorflow, tkinter, tornado, uittest, web2py;
 - Containers: Docker, Kubernets;
 - Databases: - Oracle , MySQL, Postgres, MS SQL Server, Sybase, MongoDB, DocumentDB, Cassandra, Search, ElasticSearch, SoIR, Graph, Neo4j, Azure Synapse, AWS Redshift, GPC BigQuery, Teradata, Snowflake;
 - Cloud: AWS, Azure, GPC;
