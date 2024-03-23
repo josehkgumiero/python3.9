@@ -7,18 +7,17 @@
 - For each project, there is a folder separating and identifying the project as a whole;
 
 ## Python Job Board
-- System Architect
-- Cyber Integrations Engineer
-- Engineer
+
 - Developer
 - Software Engineer
 - Full-Stack Software Engineer
 - Backend Software Engineer
-- Artificial Intelligence Developer
 - Machine Learning Engineer
 - Data Engineer
 - Data Scientist
 - Data Analyst
+- System Architect
+- Cyber Integrations Engineer
 
 ## Softskill
 
@@ -45,31 +44,36 @@
 
 ## Hardskill
 
-- Work on Frontend code;
-- Work on backend code;
-- Experience with Agile development methods.
 - Linux (Bash), Windows(PowerShell);
 - Git: Github, Bitbucket, Azure Repos, AWS CodeCommit;
-- Git: - CI/CD, Code review, Merging branchs, Release process, Fix bugs;
-- Python PEP;
-- Python Frameworks: aiohttp, asyncio, bottle, cherrypy, cubicweb, dash, django, falcon, fastapi, flask, giotto, keras, kivy, matplotlib, nose2, numpy, pandas, plotly, pyqt, pyramid, pyside, pysimplegui, pytest, pytorch, scikit_learn, scipy, tensorflow, tkinter, tornado, uittest, web2py;
+- Git: CI/CD, Code review, Merging branchs, Release process, Fix bugs;
+- Python basics: syntax, variables, data types, conditionals, type casting, exceptions, functions, builtin functions, lists, tuples, sets, dictionaries, iterators, regex, decorators, lambdas, list comprehesions, generator expressions, paradigms;
+- Data structure: array, lists, linked lists, heaps, stacks, queues, hash tables, binary search trees, recursion;
+- Algorithms;
+- Function programmig;
+- Object-oriented Porgramming: classses, inheritance, methos, dunder;
+- Modules: builtin, custom;
+- Package managers: pypi, pip, conda;
+- PEP;
+- Python Frameworks: aiohttp, asyncio, bottle, cherrypy, cubicweb, dash, django, falcon, fastapi, flask, gevent, giotto, keras, kivy, matplotlib, nose2, numpy, pandas, plotly, pyqt, pyramid, pyside, pysimplegui, pytest, pytorch, sanic, scikit_learn, scipy, tensorflow, tkinter, tornado, uittest, web2py;
 - Containers: Docker, Kubernets;
 - Databases: - Oracle , MySQL, Postgres, MS SQL Server, Sybase, MongoDB, DocumentDB, Cassandra, Search, ElasticSearch, SoIR, Graph, Neo4j, Azure Synapse, AWS Redshift, GPC BigQuery, Teradata, Snowflake;
 - Cloud: AWS, Azure, GPC;
-- Object-oriented Porgramming;
-- Test-driven Development;
-- Contribute to machine learning and large language model (LLM) pipelines and APIs, including OpenAI (GPT-3.5 and GPT-4), Azure (OpenAI), Anthropic (Claude), and Generative AI models, and other.
-- Create and optimize ETL (Extract, Transform, Load) processes to clean, transform, and enrich raw data from multiple sources, including web data extraction.
-- Monitor and troubleshoot data pipelines and data services, addressing issues related to data quality, performance, and reliability.
 
 ## Requirements
 
 - Degree in Técnico em Informática
 - Degree in Tecnologia em Análise e Desenvolvimento de Sistemas
-- +7 years of software engineering experience
-- +3 years of Python experience
+- +3 years of software engineering experience
+- +1 years of Python experience
 - Confortable working in a fully remote environment
 - Full time
 - Advanced Level of English
 - Excellent problem-solving and analytical skills
 - Strong communication and collaborations skills
+- Experience with Agile development methods.
+
+# Reference
+```
+https://docs.python.org/3/
+```

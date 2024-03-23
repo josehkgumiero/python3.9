@@ -77,6 +77,11 @@ services:
     image: "redis:alpine"
 ```
 
+- Start
+```
+docker compose up
+```
+
 # Reference
 
 https://docs.docker.com/compose/gettingstarted/

@@ -1,0 +1,9 @@
+http://localhost:5050/login?next=%2F
+admin@admin.com
+root
+
+server_itversity_retail_user
+172.22.0.2
+itversity_retail_db
+itversity_retail_user
+itversity

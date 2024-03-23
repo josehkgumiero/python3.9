@@ -50,6 +50,11 @@ docker inspect container_id
 
 # Loads the file
 
+```
+FROM dpage/pgadmin4:latest
+COPY data .
+```
+
 # References
 
 - How to create a docker-compose setup with PostgreSQL and pgAdmin4. [S. L.], 2023. 1 vídeo (7 minutos). Publicado pelo canal Random Code. Disponível em: https://www.youtube.com/watch?v=qECVC6t_2mU. Acesso em: 19 de Março de 2024.
